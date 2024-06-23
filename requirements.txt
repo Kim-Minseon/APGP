@@ -1,0 +1,83 @@
+absl-py==2.1.0
+accelerate==0.27.2
+aiohttp==3.9.3
+aiosignal==1.3.1
+annotated-types==0.6.0
+antlr4-python3-runtime==4.9.3
+anyio==4.3.0
+async-timeout==4.0.3
+attrs==23.2.0
+Brotli @ file:///tmp/abs_ecyw11_7ze/croots/recipe/brotli-split_1659616059936/work
+certifi @ file:///croot/certifi_1707229174982/work/certifi
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+clip @ git+https://github.com/openai/CLIP.git@a1d071733d7111c9c014f024669f959182114e33
+deepspeed==0.13.2
+distro==1.9.0
+einops==0.7.0
+exceptiongroup==1.2.1
+filelock @ file:///croot/filelock_1700591183607/work
+frozenlist==1.4.1
+fsspec==2024.2.0
+ftfy==6.1.3
+gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645455533097/work
+grpcio==1.62.1
+h11==0.14.0
+hjson==3.1.0
+httpcore==1.0.5
+httpx==0.27.0
+huggingface-hub==0.21.4
+idna @ file:///croot/idna_1666125576474/work
+Jinja2 @ file:///croot/jinja2_1706733616596/work
+kornia==0.7.1
+lightning==2.2.1
+lightning-utilities==0.10.1
+Markdown==3.5.2
+MarkupSafe @ file:///croot/markupsafe_1704205993651/work
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+mpi4py @ file:///croot/mpi4py_1671223370575/work
+mpmath @ file:///croot/mpmath_1690848262763/work
+multidict==6.0.5
+networkx @ file:///croot/networkx_1690561992265/work
+ninja==1.11.1.1
+numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp310-cp310-linux_x86_64.whl#sha256=d8cd837ed43e87f77e6efaa08e8de927ca030a1c9c5d04624432d6fb9a74a5ee
+omegaconf==2.3.0
+open-clip-torch==2.24.0
+openai==1.23.6
+packaging==23.2
+peft==0.9.0
+pillow @ file:///croot/pillow_1707233021655/work
+protobuf==3.20.1
+psutil==5.9.8
+py-cpuinfo==9.0.0
+pydantic==2.6.3
+pydantic_core==2.16.3
+pyDeprecate==0.3.2
+pynvml==11.5.0
+PySocks @ file:///home/builder/ci_310/pysocks_1640793678128/work
+pytorch-lightning==1.6.5
+PyYAML @ file:///croot/pyyaml_1698096049011/work
+regex==2023.12.25
+requests @ file:///croot/requests_1707355572290/work
+safetensors==0.4.2
+sentencepiece==0.2.0
+six==1.16.0
+sniffio==1.3.1
+sympy @ file:///croot/sympy_1701397643339/work
+tensorboard==2.16.2
+tensorboard-data-server==0.7.2
+timm==0.9.16
+tokenizers==0.15.2
+torch==2.1.2
+torchaudio==2.1.2
+torchmetrics==1.3.1
+torchvision==0.16.2
+tqdm==4.66.2
+transformers==4.38.2
+triton==2.1.0
+typing_extensions @ file:///croot/typing_extensions_1705599297034/work
+urllib3 @ file:///croot/urllib3_1707770551213/work
+wcwidth==0.2.13
+Werkzeug==3.0.1
+yarl==1.9.4
